@@ -1,0 +1,7 @@
+Bibliography
+============
+
+.. autosummary::
+   :toctree: generated
+
+   module to be defined   
